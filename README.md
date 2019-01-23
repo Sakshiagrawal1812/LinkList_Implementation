@@ -1,5 +1,5 @@
 # LinkList_Implementation
-Library management system :
+Library management system :Using Link List Data Structure. Implemented in "C" Language.
 Functionalities:
 1) Insert book: Add book information.
 2) delete book: Remove entries.
